@@ -18,7 +18,7 @@ Projeto de uma plataforma de estudos online que visa conectar alunos e professor
 
 * Cadastro de alunos;
 
-* Cadastro de professores com matéria e horários disponíveis;
+* Cadastro de professores com a matéria e horários disponíveis;
 
 * Lista de professores;
 
@@ -46,7 +46,7 @@ Projeto de uma plataforma de estudos online que visa conectar alunos e professor
 
 * Axios;
 
-* Sqlite;
+* SQlite;
 
 * Knex;
 
