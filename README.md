@@ -35,11 +35,18 @@ Projeto de uma plataforma de estudos online que visa conectar alunos e professor
 ## Tecnologias
 
 * Typescript;
+
 * ReactJS;
+
 * ReactNative;
+
 * Expo;
+
 * Node.js;
+
 * Axios;
+
 * Sqlite;
+
 * Knex;
 
