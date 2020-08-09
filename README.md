@@ -2,7 +2,7 @@
 
 
 ![proffy](https://user-images.githubusercontent.com/39964020/89720733-d7b7bf80-d9ab-11ea-96f7-95f888881ee8.png)
-
+##### Beta Version
 Projeto de uma plataforma de estudos online que visa conectar alunos e professores de forma rápida e fácil. Desenvolvido durante a Next Level Week 2.
 
 :computer: [Web](https://github.com/RebeccaMartinho/teste/tree/master/proffy/web)
