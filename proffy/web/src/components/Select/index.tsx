@@ -11,6 +11,7 @@ interface SelectProps extends SelectHTMLAttributes<HTMLSelectElement> {
   }>;
 }
 
+//select component
 const Select: React.FC<SelectProps> = ({ label, name, options, ...rest }) =>{
   return(
     <div className="select-block">
