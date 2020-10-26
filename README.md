@@ -14,6 +14,12 @@ Projeto de uma plataforma de estudos online que visa conectar alunos e professor
 :iphone: [Mobile](https://github.com/RebeccaMartinho/teste/tree/master/proffy/mobile)
 
 
+```sh
+$ npm install
+$ npm start
+```
+
+
 ## Funcionalidades
 
 * Cadastro de alunos;
